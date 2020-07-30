@@ -1,0 +1,45 @@
+{
+  "name": "btc-usd-real-time-data-chart",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "chart.js": "^2.7.2",
+    "localtunnel": "^2.0.0",
+    "react": "16.3.2",
+    "react-chartjs-2": "^2.7.2",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harconst/Cryptocurrency-charts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harconst/Cryptocurrency-charts/issues"
+  },
+  "homepage": "https://github.com/harconst/Cryptocurrency-charts#readme",
+  "description": ""
+}
